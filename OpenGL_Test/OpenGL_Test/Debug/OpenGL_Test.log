@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (OpenGL_Test.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source1.cpp
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(471,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(539,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(672,8): warning C4101: length: неиспользованная локальная переменная
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(671,8): warning C4101: second: неиспользованная локальная переменная
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(149,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(136): message : во время компиляции функции-члена класс шаблон "void Graph<int>::Matrix_Output(void)"
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(688): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::Matrix_Output(void)"
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(180): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(156,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(160,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(86,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(84): message : во время компиляции функции-члена класс шаблон "int Graph<int>::Number(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(101): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::Number(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(503,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(502): message : во время компиляции функции-члена класс шаблон "void Graph<int>::Graph_Output(void)"
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(721): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::Graph_Output(void)"
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(508,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\OpenGL_Test\OpenGL_Test\graph.h(510,25): warning C4018: <: несоответствие типов со знаком и без знака
+  OpenGL_Test.vcxproj -> C:\Users\User\source\repos\OpenGL_Test\Debug\TravellingSalesmanProblem.exe
